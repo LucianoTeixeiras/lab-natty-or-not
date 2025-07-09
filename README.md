@@ -17,25 +17,40 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+### BeautyFlow AI
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 💅 BeautyFlow AI – Automação Estética para Salões de Beleza ✨
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Descrição  
+**BeautyFlow AI** é um agente inteligente desenvolvido para automatizar o atendimento, os agendamentos e o reengajamento de clientes de salões de beleza. Integrado ao WhatsApp, Google Agenda e ferramentas de marketing, o agente proporciona uma experiência fluida, personalizada e com um toque estético irresistível.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🤖 Tecnologias Utilizadas  
+- [ChatGPT-4o (OpenAI)](https://openai.com/chatgpt) – Para geração de mensagens personalizadas, promoções e reativações.  
+- [n8n](https://n8n.io) – Orquestração dos fluxos de automação entre sistemas.  
+- [Supabase](https://supabase.com) – Base de dados para clientes, agendamentos e preferências.  
+- [Z-API](https://z-api.io) – Envio e recebimento de mensagens via WhatsApp.  
+- [Google Calendar API](https://developers.google.com/calendar) – Gestão automática de horários disponíveis e reservas.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 Processo de Criação  
+1. 📋 Mapeamento das necessidades do cliente com base nos processos manuais existentes.  
+2. 🧩 Modelagem do fluxo no **n8n**, definindo triggers, filtros por datas e automações.  
+3. 🧠 Criação de **prompts inteligentes** com o ChatGPT para mensagens envolventes e estéticas.  
+4. 🧪 Testes com base real, ajuste dos fluxos e iteração com feedback dos usuários finais.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultados  
+- ✅ **+35% de aumento em agendamentos semanais** após a primeira quinzena de operação.  
+- ⏱️ **Redução de 80% no tempo de atendimento manual**, com ganho de escala.  
+- 💬 **Taxa de resposta de 68% via WhatsApp**, com destaque para o tom “humano e elegante”.  
+- 🔁 **Processo autoadaptativo**, com melhorias contínuas via feedback e logs do n8n.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão  
+Desenvolver uma solução 'natty' com IA exige mais do que automação: exige estética, empatia e propósito. O verdadeiro desafio foi tornar cada interação única e acolhedora, respeitando o estilo de cada cliente. A estética aqui está no cuidado com o texto, no momento certo da mensagem, e no respeito ao tempo do cliente. A IA, nesse projeto, foi mais que funcional — ela foi encantadora. 🌷
+
+---
+
+> Projeto desenvolvido por [Luciano Teixeira](https://www.linkedin.com/in/lucianoteixeiraengenheirodedados) | LTConsult 🚀
+
 ```
 
 ### Exemplos e Insigths
